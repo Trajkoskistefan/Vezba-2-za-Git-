@@ -1,2 +1,3 @@
 bilosto
 naslov
+implementacija na footer
